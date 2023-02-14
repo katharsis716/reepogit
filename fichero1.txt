@@ -1,1 +1,3 @@
 fichero1 primera versión. Naci a una edad muy temprana
+modificacion para resolver bbug en fichero1
+modificacion para resolver bug en fichero1
